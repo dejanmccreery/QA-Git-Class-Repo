@@ -1,0 +1,2 @@
+An example text file that has been specified to get through the gitignore .txt block
+
