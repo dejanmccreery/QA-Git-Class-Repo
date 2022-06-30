@@ -1,0 +1,4 @@
+*.txt
+!example.txt
+*text*
+test_*
